@@ -1,0 +1,1 @@
+﻿Write-Output 'I'm a safe script.  That was pretty trusting of you!'
